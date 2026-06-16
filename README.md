@@ -2,7 +2,7 @@
 > 
 
 
-> Sunset Overdrive
+> Stuniri (stupid niri dots)
 
  My personal Arch Niri setup
 
@@ -17,10 +17,12 @@ This setup requires just kitty, fish, fastfetch, ImageMagick, niri and noctalia-
 >  INSTALLATION
 
  Simply clone this repo and cd into it:
- 
- git clone https://github.com/Nocturnial/Sunset-dots-arch/
 
- cd ~/Sunset-dots-arch/
+ ''' Terminal
+ git clone https://github.com/Nocturnial/Stuniri-Dots/
+
+''' Terminal
+ cd ~/Stuniri-Dots/
  
  Then just copy and paste the files (except readme and license) to your ~/.config/ folder.
 
