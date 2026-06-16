@@ -1,4 +1,4 @@
->> THESE DOTS ARE NOT MAINTAINED ANYMORE. I'VE SWITCHED TO NIXOS/GENTOO. Not that it matters, ive never updated these
+>> THESE DOTS ARE NOW BACK IN BUSINESS. I'VE SWITCHED BACK TO ARCH.
 > 
 
 
@@ -8,24 +8,27 @@
 
 > DISCLAIMER
 
-I used ai to help me with stuff like color schemes and window rounding, but NOT complex scripts. I am disclosing this to be honest and genuine. USE THIS AT YOUR OWN RISK or take it as inspiration. I am NOT responsible for it not working on your setup.
+This setup has heavy ai usage in the configs but, heavy as in minor things around the config. I take no responsibility of it not working for you.
 
 >DEPENDENCIES
 
-This setup requires fuzzel, mako, kitty, niri and noctalia-shell
+This setup requires just kitty, fish, fastfetch, ImageMagick, niri and noctalia-shell
 
 >  INSTALLATION
 
  Simply clone this repo and cd into it:
  
- git clone https://github.com/Nocturnial/Sunset-Overdrive/
+ git clone https://github.com/Nocturnial/Sunset-dots-arch/
 
- cd ~/Sunset-Overdrive/
+ cd ~/Sunset-dots-arch/
  
  Then just copy and paste the files (except readme and license) to your ~/.config/ folder.
 
-> Once again, im not responsible for setup breakages. Go crazy.
+> Now 5 months older. Yay.
+
+
+> And yes. Kitty config is indeed from End-4, Illogical Impulse. So is fish
 
 >SCREENSHOT
 
-![Desktop Preview](preview.png)
+
